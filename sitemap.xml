@@ -1,1 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>http://github.com/blog/categories/</loc><lastmod>2019-03-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url><loc>http://github.com/blog/tags/css/</loc><lastmod>2019-03-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url><loc>http://github.com/blog/</loc><lastmod>2019-03-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url><loc>http://github.com/blog/tags/html/</loc><lastmod>2019-03-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url><loc>http://github.com/blog/tags/markdown/</loc><lastmod>2019-03-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url><loc>http://github.com/blog/post/markdown-syntax/</loc><lastmod>2019-03-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url><loc>http://github.com/blog/post/</loc><lastmod>2019-03-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url><loc>http://github.com/blog/categories/syntax/</loc><lastmod>2019-03-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url><loc>http://github.com/blog/tags/</loc><lastmod>2019-03-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url><loc>http://github.com/blog/categories/themes/</loc><lastmod>2019-03-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url><loc>http://github.com/blog/tags/privacy/</loc><lastmod>2019-03-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url><loc>http://github.com/blog/tags/shortcodes/</loc><lastmod>2019-03-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url><loc>http://github.com/blog/post/rich-content/</loc><lastmod>2019-03-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url><loc>http://github.com/blog/tags/text/</loc><lastmod>2019-03-09T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url><loc>http://github.com/blog/post/placeholder-text/</loc><lastmod>2019-03-09T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url><loc>http://github.com/blog/post/math-typesetting/</loc><lastmod>2019-03-08T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url><loc>http://github.com/blog/tags/emoji/</loc><lastmod>2019-03-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url><loc>http://github.com/blog/post/emoji-support/</loc><lastmod>2019-03-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url><loc>http://github.com/blog/about.html</loc><lastmod>2019-02-28T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://bearxz.github.io/blog/posts/hello-world/</loc>
+    <lastmod>2021-11-21T07:16:49+00:00</lastmod>
+  </url><url>
+    <loc>https://bearxz.github.io/blog/posts/</loc>
+    <lastmod>2021-11-21T07:16:49+00:00</lastmod>
+  </url><url>
+    <loc>https://bearxz.github.io/blog/</loc>
+    <lastmod>2021-11-21T07:16:49+00:00</lastmod>
+  </url><url>
+    <loc>https://bearxz.github.io/blog/about/</loc>
+    <lastmod>2021-11-21T07:16:49+00:00</lastmod>
+  </url><url>
+    <loc>https://bearxz.github.io/blog/categories/</loc>
+  </url><url>
+    <loc>https://bearxz.github.io/blog/tags/</loc>
+  </url>
+</urlset>
