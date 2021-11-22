@@ -4,13 +4,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">Hugo Theme MemE</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2021-11-22T17:03:26&#43;00:00</updated>
-    <id>https://github.com/bearxz/blog/</id>
-    <link rel="alternate" type="text/html" href="https://github.com/bearxz/blog/" />
-    <link rel="self" type="application/atom&#43;xml" href="https://github.com/bearxz/blog/atom.xml" />
+    <updated>2021-11-22T17:09:07&#43;00:00</updated>
+    <id>https://bearxz.github.io/blog/</id>
+    <link rel="alternate" type="text/html" href="https://bearxz.github.io/blog/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://bearxz.github.io/blog/atom.xml" />
     <author>
             <name>reuixiy</name>
-            <uri>https://github.com/</uri>
+            <uri>https://bearxz.github.io/</uri>
             
                 <email>reuixiy@gmail.com</email>
             </author>
@@ -18,9 +18,9 @@
     <generator uri="https://gohugo.io/" version="0.89.3">Hugo</generator>
         <entry>
             <title type="text">Hello World</title>
-            <link rel="alternate" type="text/html" href="https://github.com/bearxz/blog/posts/hello-world/" />
-            <id>https://github.com/bearxz/blog/posts/hello-world/</id>
-            <updated>2021-11-22T17:03:23&#43;00:00</updated>
+            <link rel="alternate" type="text/html" href="https://bearxz.github.io/blog/posts/hello-world/" />
+            <id>https://bearxz.github.io/blog/posts/hello-world/</id>
+            <updated>2021-11-22T17:09:04&#43;00:00</updated>
             <published>2021-11-23T00:41:08&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
