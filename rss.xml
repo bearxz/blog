@@ -8,7 +8,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Hugo Theme MemE</title>
-        <link>https://example.com/</link>
+        <link>https://github.com/bearxz/blog/</link>
         <description>MemE is a powerful and highly customizable GoHugo theme for personal blogs.</description>
         <generator>Hugo 0.89.3 https://gohugo.io/</generator>
         
@@ -23,15 +23,15 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Mon, 22 Nov 2021 17:00:48 &#43;0000</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 17:03:26 &#43;0000</lastBuildDate>
         
-            <atom:link rel="self" type="application/rss&#43;xml" href="https://example.com/rss.xml" />
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://github.com/bearxz/blog/rss.xml" />
         
         
             <item>
                 <title>Hello World</title>
-                <link>https://example.com/posts/hello-world/</link>
-                <guid isPermaLink="true">https://example.com/posts/hello-world/</guid>
+                <link>https://github.com/bearxz/blog/posts/hello-world/</link>
+                <guid isPermaLink="true">https://github.com/bearxz/blog/posts/hello-world/</guid>
                 <pubDate>Tue, 23 Nov 2021 00:41:08 &#43;0800</pubDate>
                 
                     <author>reuixiy@gmail.com (reuixiy)</author>
