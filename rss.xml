@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Mon, 22 Nov 2021 17:09:07 &#43;0000</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 17:10:30 &#43;0000</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://bearxz.github.io/blog/rss.xml" />
         
@@ -45,6 +45,78 @@
                 
                 
                     
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Github访问</title>
+                <link>https://bearxz.github.io/blog/posts/github/</link>
+                <guid isPermaLink="true">https://bearxz.github.io/blog/posts/github/</guid>
+                <pubDate>Mon, 22 Nov 2021 23:09:42 &#43;0800</pubDate>
+                
+                    <author>reuixiy@gmail.com (reuixiy)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description>&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-typescript&#34; data-lang=&#34;typescript&#34;&gt;&lt;span class=&#34;nx&#34;&gt;BearXZ&lt;/span&gt;&lt;span class=&#34;cm&#34;&gt;/*开头*/&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;虽然GitHub没有被墙，但是，因为DNS污染，很多时候我们想要访问的时候可真的是慢的要命。尤其是对于一个程序员来说，GItHub还是必不可少的，虽然国内有Gitee存在，但是其毕竟局限于国内。&lt;/p&gt;
+&lt;p&gt;下面介绍几种方法，可以快速访问到GitHub：&lt;/p&gt;
+&lt;h2 id=&#34;浏览器插件&#34;&gt;浏览器插件&lt;/h2&gt;
+&lt;p&gt;一般我还是通过浏览器进行GitHub的访问的，这个时候可以通过插件&lt;code&gt;GitHub加速&lt;/code&gt;，这个浏览器插件在谷歌和火狐浏览器上面都有。谷歌浏览器访问不了扩展商店，我们可以去https://www.extfans.com/这个网站上下载插件。谷歌浏览器的插件和火狐上的插件图标名称都一样。如下图所示：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/bearxz/images/blog/image-20211122232646707.png&#34; alt=&#34;image-20211122232646707&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;修改host&#34;&gt;修改Host&lt;/h2&gt;
+&lt;p&gt;另外一种常用的方法就是通过修改电脑host文件，由于Github被DNS污染，所以解析GitHub的IP地址会很慢，这个时候我们可以通过修改域名和IP地址的映射达到快速访问的目的。这里推荐使用SwitchHosts软件进行Host的自动更新。这个可以参考GitHub520项目。安装好SwitchHosts软件之后，选择新建一个文件，选择远程文件，将URL填入到输入框中，更新时间设置为一小时即可。如下图所示：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/bearxz/images/blog/image-20211122234658424.png&#34; alt=&#34;image-20211122234658424&#34;&gt;&lt;/p&gt;
+&lt;p&gt;这里贴一下项目地址：&lt;/p&gt;
+&lt;p&gt;GitHub520：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;GitHub：https://github.com/521xueweihan/GitHub520&lt;/li&gt;
+&lt;li&gt;Gitee：https://gitee.com/monkeycc/GitHub520&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;SwitchHosts&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;GitHub：https://github.com/oldj/SwitchHosts/&lt;/li&gt;
+&lt;li&gt;Gitee：https://gitee.com/monkeycc/SwitchHosts&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Host地址：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://gitee.com/isevenluo/github-hosts&#34;&gt;https://gitee.com/isevenluo/github-hosts&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;代理&#34;&gt;代理&lt;/h2&gt;
+&lt;p&gt;不过嘛，这个东西不可说不可说。能够一劳永逸，但是存在风险，如果只关注GitHub,看上面的方法就可以了。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/bearxz/images/blog/logo.png&#34; alt=&#34;logo&#34;&gt;&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://bearxz.github.io/blog/categories/github/">GitHub</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://bearxz.github.io/blog/categories/%E5%BF%AB%E9%80%9F%E8%AE%BF%E9%97%AE/">快速访问</category>
+                                
+                            
                         
                     
                         
