@@ -7,36 +7,36 @@
 
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>清风流年的博客</title>
-        <link>https://bearxz.github.io/blog/</link>
-        <description>MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</description>
+        <title>Hugo Theme MemE</title>
+        <link>https://example.com/</link>
+        <description>MemE is a powerful and highly customizable GoHugo theme for personal blogs.</description>
         <generator>Hugo 0.89.3 https://gohugo.io/</generator>
         
             <language>zh-CN</language>
         
         
-            <managingEditor>2454037954@qq.com (bearxz)</managingEditor>
+            <managingEditor>reuixiy@gmail.com (reuixiy)</managingEditor>
         
         
-            <webMaster>2454037954@qq.com (bearxz)</webMaster>
+            <webMaster>reuixiy@gmail.com (reuixiy)</webMaster>
         
         
-            <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+            <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Sun, 21 Nov 2021 07:16:52 &#43;0000</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 17:00:48 &#43;0000</lastBuildDate>
         
-            <atom:link rel="self" type="application/rss&#43;xml" href="https://bearxz.github.io/blog/rss.xml" />
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://example.com/rss.xml" />
         
         
             <item>
                 <title>Hello World</title>
-                <link>https://bearxz.github.io/blog/posts/hello-world/</link>
-                <guid isPermaLink="true">https://bearxz.github.io/blog/posts/hello-world/</guid>
-                <pubDate>Sat, 20 Nov 2021 14:32:37 &#43;0800</pubDate>
+                <link>https://example.com/posts/hello-world/</link>
+                <guid isPermaLink="true">https://example.com/posts/hello-world/</guid>
+                <pubDate>Tue, 23 Nov 2021 00:41:08 &#43;0800</pubDate>
                 
-                    <author>2454037954@qq.com (bearxz)</author>
+                    <author>reuixiy@gmail.com (reuixiy)</author>
                 
-                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 
                     <description></description>
                 

@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://bearxz.github.io/blog/posts/hello-world/</loc>
-    <lastmod>2021-11-21T07:16:49+00:00</lastmod>
+    <loc>https://example.com/about/</loc>
+    <lastmod>2021-11-22T17:00:45+00:00</lastmod>
   </url><url>
-    <loc>https://bearxz.github.io/blog/posts/</loc>
-    <lastmod>2021-11-21T07:16:49+00:00</lastmod>
+    <loc>https://example.com/</loc>
+    <lastmod>2021-11-22T17:00:45+00:00</lastmod>
   </url><url>
-    <loc>https://bearxz.github.io/blog/</loc>
-    <lastmod>2021-11-21T07:16:49+00:00</lastmod>
+    <loc>https://example.com/posts/hello-world/</loc>
+    <lastmod>2021-11-22T17:00:45+00:00</lastmod>
   </url><url>
-    <loc>https://bearxz.github.io/blog/about/</loc>
-    <lastmod>2021-11-21T07:16:49+00:00</lastmod>
+    <loc>https://example.com/posts/</loc>
+    <lastmod>2021-11-22T17:00:45+00:00</lastmod>
   </url><url>
-    <loc>https://bearxz.github.io/blog/categories/</loc>
+    <loc>https://example.com/categories/</loc>
   </url><url>
-    <loc>https://bearxz.github.io/blog/tags/</loc>
+    <loc>https://example.com/tags/</loc>
   </url>
 </urlset>
