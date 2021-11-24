@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Mon, 22 Nov 2021 17:22:00 &#43;0000</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 14:27:15 &#43;0000</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://bearxz.github.io/blog/rss.xml" />
         
@@ -60,7 +60,7 @@
                     <author>reuixiy@gmail.com (reuixiy)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
-                <description>1 BearXZ/*开头*/ 虽然GitHub没有被墙，但是，因为DNS污染，很多时候我……</description>
+                <description>GitHub快速访问 虽然GitHub没有被墙，但是，因为DNS污染，很多时候我们想要……</description>
                 
                 
                 
@@ -83,6 +83,14 @@
                             
                         
                     
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://bearxz.github.io/blog/tags/github/">GitHub</category>
+                                
+                            
                         
                     
                 

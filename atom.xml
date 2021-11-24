@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">Hugo 主题 MemE</title>
     <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
-    <updated>2021-11-22T17:22:00&#43;00:00</updated>
+    <updated>2021-11-24T14:27:15&#43;00:00</updated>
     <id>https://bearxz.github.io/blog/</id>
     <link rel="alternate" type="text/html" href="https://bearxz.github.io/blog/" />
     <link rel="self" type="application/atom&#43;xml" href="https://bearxz.github.io/blog/atom.xml" />
@@ -20,7 +20,7 @@
             <title type="text">Hello World</title>
             <link rel="alternate" type="text/html" href="https://bearxz.github.io/blog/posts/hello-world/" />
             <id>https://bearxz.github.io/blog/posts/hello-world/</id>
-            <updated>2021-11-22T17:21:57&#43;00:00</updated>
+            <updated>2021-11-24T14:27:12&#43;00:00</updated>
             <published>2021-11-23T00:41:08&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -45,14 +45,14 @@
             <title type="text">Github访问</title>
             <link rel="alternate" type="text/html" href="https://bearxz.github.io/blog/posts/github/" />
             <id>https://bearxz.github.io/blog/posts/github/</id>
-            <updated>2021-11-22T17:21:57&#43;00:00</updated>
+            <updated>2021-11-24T14:27:12&#43;00:00</updated>
             <published>2021-11-22T23:09:42&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
                     <uri>https://io-oi.me/</uri>
                     <email>reuixiy@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">1 BearXZ/*开头*/ 虽然GitHub没有被墙，但是，因为DNS污染，很多时候我……</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">GitHub快速访问 虽然GitHub没有被墙，但是，因为DNS污染，很多时候我们想要……</summary>
             
             
             
@@ -75,6 +75,14 @@
                         
                     
                 
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://bearxz.github.io/blog/tags/github/" term="GitHub" label="GitHub" />
+                            
+                        
                     
                 
             
