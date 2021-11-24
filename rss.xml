@@ -23,13 +23,13 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Wed, 24 Nov 2021 14:27:15 &#43;0000</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 14:36:04 &#43;0000</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://bearxz.github.io/blog/rss.xml" />
         
         
             <item>
-                <title>Hello World</title>
+                <title>使用Hugo构建个人博客</title>
                 <link>https://bearxz.github.io/blog/posts/hello-world/</link>
                 <guid isPermaLink="true">https://bearxz.github.io/blog/posts/hello-world/</guid>
                 <pubDate>Tue, 23 Nov 2021 00:41:08 &#43;0800</pubDate>
@@ -37,7 +37,7 @@
                     <author>reuixiy@gmail.com (reuixiy)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
-                <description></description>
+                <description>Hugo是一个Go语言构建的静态网站编译工具 官网地址：https://gohugo.……</description>
                 
                 
                 
@@ -45,7 +45,23 @@
                 
                     
                         
+                            
+                                
+                                
+                                
+                                    <category domain="https://bearxz.github.io/blog/categories/hugo/">Hugo</category>
+                                
+                            
+                        
                     
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://bearxz.github.io/blog/tags/hugo/">Hugo</category>
+                                
+                            
                         
                     
                 
