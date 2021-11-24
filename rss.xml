@@ -7,23 +7,23 @@
 
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Hugo 主题 MemE</title>
+        <title>十二楼五城</title>
         <link>https://bearxz.github.io/blog/</link>
-        <description>MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</description>
+        <description>这是BearXZ的博客，记录知识，持之以恒</description>
         <generator>Hugo 0.89.3 https://gohugo.io/</generator>
         
             <language>zh-CN</language>
         
         
-            <managingEditor>reuixiy@gmail.com (reuixiy)</managingEditor>
+            <managingEditor>2454037954@qq.com (bearxz)</managingEditor>
         
         
-            <webMaster>reuixiy@gmail.com (reuixiy)</webMaster>
+            <webMaster>2454037954@qq.com (bearxz)</webMaster>
         
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Wed, 24 Nov 2021 14:38:56 &#43;0000</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 14:48:55 &#43;0000</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://bearxz.github.io/blog/rss.xml" />
         
@@ -34,7 +34,7 @@
                 <guid isPermaLink="true">https://bearxz.github.io/blog/posts/hello-world/</guid>
                 <pubDate>Tue, 23 Nov 2021 00:41:08 &#43;0800</pubDate>
                 
-                    <author>reuixiy@gmail.com (reuixiy)</author>
+                    <author>2454037954@qq.com (bearxz)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 <description>Hugo是一个Go语言构建的静态网站编译工具 官网地址：https://gohugo.……</description>
@@ -73,7 +73,7 @@
                 <guid isPermaLink="true">https://bearxz.github.io/blog/posts/github/</guid>
                 <pubDate>Mon, 22 Nov 2021 23:09:42 &#43;0800</pubDate>
                 
-                    <author>reuixiy@gmail.com (reuixiy)</author>
+                    <author>2454037954@qq.com (bearxz)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 <description>GitHub快速访问 虽然GitHub没有被墙，但是，因为DNS污染，很多时候我们想要……</description>
